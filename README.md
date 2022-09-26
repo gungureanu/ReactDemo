@@ -1,7 +1,7 @@
-# ReactDemo (Part 2: Backend Source-Code)
+# ReactDemo (Part 2: ASP.NET CORE MVC API Source-Code)
 Basic Web Application built with Microsoft SQL Server, ASP.NET Core (MVC) 6.0, and React 
 
-1.  https://www.reactdemo.net/ (Working Web Application | username: admin@reactdemo.net | password: see email message) 
+1.  https://www.reactdemo.net/ (Working Web Application | username: admin@reactdemo.net) 
 2.  https://www.github.com/gungureanu/react-demo-main/ (Part 1: Frontend Source-Code) 
 3.  https://www.github.com/gungureanu/reactdemo/ (Part 2: Backend Source-Code)
 
