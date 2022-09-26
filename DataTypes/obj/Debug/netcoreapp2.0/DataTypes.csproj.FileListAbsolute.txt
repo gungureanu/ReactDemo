@@ -1,0 +1,55 @@
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.AssemblyReference.cache
+E:\Project Data\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+E:\Project Data\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csprojAssemblyReference.cache
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csprojAssemblyReference.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI_Shariq\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+E:\ProjectData\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\KhameliaWebAPI\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\ProjectData\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+E:\ProjectData\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+E:\ProjectData\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\KhameliaWebAPI\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+C:\Users\Administrator\source\repos\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+E:\ProjectData\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\ReactDemo\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.AssemblyReference.cache
+E:\ProjectData\ReactDemo\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig

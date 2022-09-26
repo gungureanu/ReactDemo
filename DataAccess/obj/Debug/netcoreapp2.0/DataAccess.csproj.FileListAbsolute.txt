@@ -1,0 +1,74 @@
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\Khamelia\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.AssemblyReference.cache
+E:\Project Data\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+E:\Project Data\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+E:\Project Data\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+E:\Project Data\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojAssemblyReference.cache
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+E:\Project Data\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojAssemblyReference.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+E:\Project Data\KhameliaWebAPI_Shariq\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+E:\ProjectData\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\KhameliaWebAPI\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojAssemblyReference.cache
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\KhameliaWebAPI\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\Administrator\source\repos\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+E:\ProjectData\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.dll
+E:\ProjectData\ReactDemo\DataAccess\bin\Debug\netcoreapp2.0\DataTypes.pdb
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CopyComplete
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.AssemblyReference.cache
+E:\ProjectData\ReactDemo\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig

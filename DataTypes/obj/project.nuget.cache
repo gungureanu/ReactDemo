@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnI1yTSo+C52oG0+iM2P8/x6+TTa4uJTXweTeOXZPy0DOmOyyW4JO9AuY1F0NMVyQtKxkOOfRyosE/Z4C3cEnw==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\RobertHalf\\ReactDemo\\ReactDemo\\DataTypes\\DataTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabeu\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.6.0\\microsoft.codeanalysis.analyzers.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
